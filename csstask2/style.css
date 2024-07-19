@@ -1,0 +1,13 @@
+.dv{
+    text-align: center;
+    border : 40px solid blue;
+    width: 1230px;
+}
+.mg{
+    border: 40px solid green;
+}
+#bd{
+  border: 40px solid yellow;  
+  width:1300px;
+  height: 820px;
+}
